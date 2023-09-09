@@ -1,2 +1,2 @@
 # LearningCppBook
-C++ crash course, o'reilly, Josh Lospinoso
+C++ crash course, o'reilly, Josh Lospinoso (Work in Progress)
